@@ -1,2 +1,2 @@
 # Residual_Network
-Create a residual network architecture with the model subclassing API from tensorflow. Application to MNIST dataset
+*Objective*: employ the model subclassing API together with custom layers to create a residual network architecture. Train the custom model on the MNIST dataset by using a custom training loop and implementing the automatic differentiation tools in Tensorflow to calculate the gradients for backpropagation.
